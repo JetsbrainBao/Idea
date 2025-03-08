@@ -1,8 +1,1 @@
-import tkinter 
-window = tkinter.Tk()
-window.title('calculator')
-#
-font = ('Arial', 14, 'bold')
-Title_label = tkinter.Label(window, text='Please choose the mode you want to use!', font=font, bg=#D20103, fg=#FFFFFF)
-Title_label.grid(row=0, column=0)
-window.mainloop()
+
